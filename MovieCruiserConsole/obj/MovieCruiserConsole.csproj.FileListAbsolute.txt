@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\bin\Debug\netcoreapp3.1\MovieCruiserConsole.exe
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\bin\Debug\netcoreapp3.1\MovieCruiserConsole.deps.json
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\bin\Debug\netcoreapp3.1\MovieCruiserConsole.runtimeconfig.json
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\bin\Debug\netcoreapp3.1\MovieCruiserConsole.runtimeconfig.dev.json
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\bin\Debug\netcoreapp3.1\MovieCruiserConsole.dll
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\bin\Debug\netcoreapp3.1\MovieCruiserConsole.pdb
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\obj\Debug\netcoreapp3.1\MovieCruiserConsole.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\obj\Debug\netcoreapp3.1\MovieCruiserConsole.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\obj\Debug\netcoreapp3.1\MovieCruiserConsole.AssemblyInfo.cs
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\obj\Debug\netcoreapp3.1\MovieCruiserConsole.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\obj\Debug\netcoreapp3.1\MovieCruiserConsole.dll
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\obj\Debug\netcoreapp3.1\MovieCruiserConsole.pdb
+C:\Users\hp\source\repos\MovieCruiserConsole\MovieCruiserConsole\obj\Debug\netcoreapp3.1\MovieCruiserConsole.genruntimeconfig.cache
